@@ -60,7 +60,7 @@ Each platform is further organized into the following topics:
 
 | Platform   | Solved |
 | ---------- | ------ |
-| LeetCode   | 00     |
+| LeetCode   | 02     |
 | GFG        | 00     |
 | Code360    | 00     |
 | Codeforces | 00     |
