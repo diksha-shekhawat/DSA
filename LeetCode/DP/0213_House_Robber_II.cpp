@@ -1,3 +1,7 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+using namespace std;
 /*
 =========================================================
 LeetCode 213. House Robber II
